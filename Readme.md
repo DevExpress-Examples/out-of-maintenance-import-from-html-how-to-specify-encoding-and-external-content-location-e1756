@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/BeforeImportExample/Form1.cs) (VB: [Form1.vb](./VB/BeforeImportExample/Form1.vb))
+<!-- default file list end -->
 # Import from HTML - How to specify encoding and external content location
 
 
